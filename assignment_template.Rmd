@@ -129,7 +129,7 @@ You can reference this table as follows: Table \ref{tab:tab2}.
 
 Diana Jacquelinne Soto Alcaraz
 
-Juan Pablo Almada Burr
+Juan Pablo Almada Burr- Hola a todos.
 
 Bernardo Amador Padilla
 
