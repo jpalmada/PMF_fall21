@@ -67,6 +67,21 @@ We can also write equations within the main text as here: $w=\sum^{20}_{i=1}[1/n
 
 ## A subsection.
 
+#Juan Pablo Almada Burr A00227349
+```{r}
+n = .9
+x <- (1:20)
+y <- (1/n^x)
+cumsum(y)
+Z= sum(y)
+Z
+
+plot(x,y, main = "Juan Pablo Almada")
+```
+
+
+
+
 A numbered list:
 
 1)  First numbered point
